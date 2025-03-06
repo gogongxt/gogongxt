@@ -57,8 +57,9 @@
 <table>
   <tr>
     <td align="center" valign="top">
-      <a href="http://gxt-kt.cn">
-        <img src="http://gxt-kt.cn/wp-content/uploads/2022/11/1669378957701-300x300.jpg" alt="Bilibili" width="115">
+      <a href="http://gxt.blue">
+        <img src="https://image.gxt.blue/i/2025/03/06/zclcto.jpg
+" alt="Bilibili" width="115">
       </a>
     </td>
     <td align="center" valign="top">
