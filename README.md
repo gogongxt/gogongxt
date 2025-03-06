@@ -58,12 +58,12 @@
   <tr>
     <td align="center" valign="top">
       <a href="http://gxt.blue">
-        <img src="https://image.gxt.blue/i/2025/03/06/zclcto.jpg" alt="gxt.blue" width="115">
+        <img src="https://image.gxt.blue/i/2025/03/06/zclcto.jpg" alt="gxt.blue" width="130">
       </a>
     </td>
     <td align="center" valign="top">
       <a href="https://space.bilibili.com/362867186">
-        <img src="https://camo.githubusercontent.com/860a008daa89512e0ff896c0f0d754e2345cc00dcc75242dc1459b624556ab79/68747470733a2f2f63646e2e6b6167616d697a2e636f6d2f42696c6962696c692d546f6f6c6b69742f62696c6962696c692e706e67" alt="Bilibili" width="330">
+        <img src="https://image.gxt.blue/i/2025/03/06/zef86h.png" alt="Bilibili" width="130">
       </a>
     </td>
   </tr>
