@@ -58,8 +58,7 @@
   <tr>
     <td align="center" valign="top">
       <a href="http://gxt.blue">
-        <img src="https://image.gxt.blue/i/2025/03/06/zclcto.jpg
-" alt="Bilibili" width="115">
+        <img src="https://image.gxt.blue/i/2025/03/06/zclcto.jpg" alt="gxt.blue" width="115">
       </a>
     </td>
     <td align="center" valign="top">
