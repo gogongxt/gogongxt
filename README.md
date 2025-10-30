@@ -10,16 +10,18 @@
   
 
 
-- 🔭 I am a graduate student of ZJU.  
   
 
-- 🌱 I’m currently learning slam and various other things.  
-  
+- 🌱 I’m currently learning AI Infra and various other things.  
+
+
+- 🔭 I am a master’s graduate from ZJU.
+
 
 - ❓ Ask me about anything related to my repositories.  
   
 
-- ⚡ Fun fact: cycling, gaming and sleeping  
+- ⚡ Fun fact: fitness, cycling and sleeping  
   
 <br/>
 
@@ -57,7 +59,7 @@
 <table>
   <tr>
     <td align="center" valign="top">
-      <a href="http://gxt.blue">
+      <a href="http://gogongxt.com">
         <img src="https://image.gxt.blue/i/2025/03/06/zclcto.jpg" alt="gxt.blue" width="130">
       </a>
     </td>
