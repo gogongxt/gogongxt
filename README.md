@@ -59,13 +59,13 @@
 <table>
   <tr>
     <td align="center" valign="top">
-      <a href="http://gogongxt.com">
-        <img src="https://image.gxt.blue/i/2025/03/06/zclcto.jpg" alt="gxt.blue" width="130">
+      <a href="https://gogongxt.com">
+        <img src="https://images.gogongxt.com/app/thumb.php?img=/i/2025/11/22/kdwne.gif" alt="gogongxt.com" width="130">
       </a>
     </td>
     <td align="center" valign="top">
       <a href="https://space.bilibili.com/362867186">
-        <img src="https://image.gxt.blue/i/2025/03/06/zef86h.png" alt="Bilibili" width="130">
+        <img src="https://images.gogongxt.com/i/2026/01/07/r1kaim.webp" alt="Bilibili" width="130">
       </a>
     </td>
   </tr>
